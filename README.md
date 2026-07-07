@@ -235,9 +235,9 @@ Developed as the initial version of the Spider Robot project using **Arduino Uno
 
 ---
 
-# 📜 License
+# 📜 Credits
 
-This project is licensed under the **MIT License**.
+Credit goes out to [regishsu](https://github.com/regishsu)  for creating the original Instructable, as well as [Donnie Plumly](https://github.com/dplumly) and [robertcedwards](https://github.com/robertcedwards)for guiding me through the process of making this robot a reality.
 
 ---
 
