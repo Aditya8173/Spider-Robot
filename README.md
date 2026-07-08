@@ -26,6 +26,8 @@ The project focuses on learning robot locomotion, servo motor control, and wirel
 
 # 🏗️ System Architecture
 
+<img width="1746" height="942" alt="Work Flow Diagram" src="https://github.com/user-attachments/assets/da881b60-bc09-43e5-b2fd-e281fc161065" />
+
 ```text
         Android Phone
               │
